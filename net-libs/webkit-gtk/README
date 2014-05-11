@@ -1,0 +1,9 @@
+This patch fixes the compiling and crashing issue
+on Loongson 2F, MIPS N32 Platform.
+
+Tested with webkit-gtk-2.2.5 and webkit-gtk-2.2.6,
+both GTK2 and GTK3 build are working.
+
+NOTE: The ebuild for webkit-gtk doesn't support
+Gentoo User Patch. You have to modify the ebuild
+to apply the patch.

@@ -1,0 +1,3 @@
+This dirty-hack patch fixes GCC Bug #58158.
+
+Tested with GCC 4.8.2.
